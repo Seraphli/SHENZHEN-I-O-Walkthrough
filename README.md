@@ -60,10 +60,21 @@ Cost: 4 Power: 285 Lines: 7
 
 ## PASSIVE INFRARED SENSOR
 
+2017.12.9 Updated.
+
+[Reference][1]
+
+Cost: 6 Power: 302 Lines: 8
+
 ![PASSIVE INFRARED SENSOR](7.jpg)
-![PASSIVE INFRARED SENSOR](7B.jpg)
 
 ## VIRTUAL REALITY BUZZER
+
+2017.12.9 Updated.
+
+[Reference][1]
+
+Cost: 3 Power: 111 Lines: 5
 
 ![VIRTUAL REALITY BUZZER](8.jpg)
 
