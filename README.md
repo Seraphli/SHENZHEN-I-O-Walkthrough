@@ -91,6 +91,17 @@ Cost: 6 Power: 135 Lines: 11
 
 ## LASER TAG EQUIPMENT
 
+2017.12.9 Updated.
+
+[Reference][1]
+
+[Switch][2]
+
+Cost: 7 Power: 240 Lines: 9
+
+![LASER TAG EQUIPMENT](10.jpg)
+![LASER TAG EQUIPMENT](10B.jpg)
+
 ## UNKNOWN OPTIMIZATION DEVICE
 
 ![UNKNOWN OPTIMIZATION DEVICE](11.jpg)
@@ -174,3 +185,4 @@ Cost: 6 Power: 135 Lines: 11
 ![COLOR COORDINATING SHOES](29B.jpg)
 
 [1]: http://steamcommunity.com/sharedfiles/filedetails/?id=780661614
+[2]: http://steamcommunity.com/sharedfiles/filedetails/?id=787611791
