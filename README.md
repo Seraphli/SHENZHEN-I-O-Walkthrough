@@ -11,21 +11,33 @@ Information thief is FORBIDDEN!
 
 2017.12.9 Updated.
 
-[Reference](http://steamcommunity.com/sharedfiles/filedetails/?id=780661614)
+[Reference][1]
 
 I didn't know you can add '@' in front of the command to make this command run only once. So this solution is quite efficient.
+
+Cost: 6 Power: 58 Lines: 3
 
 ![FAKE SURVERLLANCE CAMERA](1.jpg)
 
 ## CONTROL SIGNAL AMPLIFIER
 
+Cost: 3 Power: 240 Lines: 4
+
 ![CONTROL SIGNAL AMPLIFIER](2.jpg)
 
 ## DIAGNOSTIC PULSE GENERATOR
 
+Cost: 3 Power: 142 Lines: 3
+
 ![DIAGNOSTIC PULSE GENERATOR](3.jpg)
 
 ## ANIMATED ESPORTS SIGN
+
+2017.12.9 Updated.
+
+[Reference][1]
+
+Cost: 7 Power: 172 Lines: 14
 
 ![ANIMATED ESPORTS SIGN](4.jpg)
 ![ANIMATED ESPORTS SIGN](4B.jpg)
@@ -133,3 +145,5 @@ I didn't know you can add '@' in front of the command to make this command run o
 
 ![COLOR COORDINATING SHOES](28.jpg)
 ![COLOR COORDINATING SHOES](28B.jpg)
+
+[1]: http://steamcommunity.com/sharedfiles/filedetails/?id=780661614
