@@ -80,6 +80,12 @@ Cost: 3 Power: 111 Lines: 5
 
 ## WIRELESS GAME CONTROLLER
 
+2017.12.9 Updated.
+
+[Reference][1]
+
+Cost: 6 Power: 135 Lines: 11
+
 ![WIRELESS GAME CONTROLLER](9.jpg)
 ![WIRELESS GAME CONTROLLER](9B.jpg)
 
