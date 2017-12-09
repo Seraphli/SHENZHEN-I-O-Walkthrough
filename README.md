@@ -9,6 +9,12 @@ Information thief is FORBIDDEN!
 
 ## FAKE SURVERLLANCE CAMERA
 
+2017.12.9 Updated.
+
+[Reference](http://steamcommunity.com/sharedfiles/filedetails/?id=780661614)
+
+I didn't know you can add '@' in front of the command to make this command run only once. So this solution is quite efficient.
+
 ![FAKE SURVERLLANCE CAMERA](1.jpg)
 
 ## CONTROL SIGNAL AMPLIFIER
